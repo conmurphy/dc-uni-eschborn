@@ -1,4 +1,6 @@
-# Scripts for Cisco DC Uni day in Eschborn
+# Cisco Partner University Devnet 2019
+
+Scripts for Cisco DC Uni day in Eschborn
 
 ## License
 
