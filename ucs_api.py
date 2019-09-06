@@ -10,7 +10,7 @@ writing, software distributed under the License is distributed on an "AS
 IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
 or implied.'''
 
-
+print("diff test")
 import requests
 import json
 from dcUniConfig import config
