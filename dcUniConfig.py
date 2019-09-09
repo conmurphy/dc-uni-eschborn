@@ -29,4 +29,4 @@ class dcUniConfig(object):
             self.__dict__.update(parser.items(name)) 
 
 
-config = dcUniConfig('config.cfg' )
+config = dcUniConfig('config.cfg','help_guide.cfg')

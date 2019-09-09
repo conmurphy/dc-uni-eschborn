@@ -1,0 +1,12 @@
+{
+  "help": "HELP_OVERVIEW",
+  "?": "HELP_OVERVIEW",
+  "programmability": "HELP_PROGRAMMABILITY",
+  "dev": "HELP_PROGRAMMABILITY",
+  "git": "HELP_GIT",
+  "vagrant": "HELP_VAGRANT",
+  "slides": "HELP_SLIDES",
+  "pdf": "HELP_SLIDES",
+  "presentations": "HELP_SLIDES",
+  "default": "HELP_OVERVIEW"
+}

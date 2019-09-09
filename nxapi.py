@@ -71,7 +71,6 @@ for host in hosts:
                         interfaces = []
                         if type(response["ROW_intf"]) is list:
                             for interface in response["ROW_intf"]:
-                                print(interface)
                                 interfaces.append([interface["intf-name"], interface["prefix"], interface["proto-state"],interface["link-state"],interface["admin-state"]])
                         else:
                             interface = response["ROW_intf"]
