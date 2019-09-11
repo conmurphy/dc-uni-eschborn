@@ -32,7 +32,7 @@ def aciGetTenants(session):
     
     tenants = ACI.Tenant.get(session)
     
-    print(tenants)
+    print("newBranch")
     
     output = []
     
