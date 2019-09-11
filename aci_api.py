@@ -32,7 +32,6 @@ def aciGetTenants(session):
     
     tenants = ACI.Tenant.get(session)
     
-    print(tenants)
     output = []
     
     for tenant in tenants:
